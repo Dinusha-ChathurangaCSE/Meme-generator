@@ -10,12 +10,11 @@ Currently, two official plugins are available:
 
 Here I use git branching.
 ## This project is not yet completed
-<<<<<<< HEAD
 
 shsdbhsh
 
 git conflict
 have fun
-=======
 git conflict
->>>>>>> master
+
+bhvhvhhbbjhb
